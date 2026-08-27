@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.DS_Store
+embedding_plot.html
+embedding_plot_tsne.html
+cluster_plot.html

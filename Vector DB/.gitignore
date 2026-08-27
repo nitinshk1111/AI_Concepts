@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.DS_Store
+.env
+semantic_search/data/*
+semantic_search/embeddings/*
+!semantic_search/data/.gitkeep
+!semantic_search/data/README.md
+!semantic_search/embeddings/.gitkeep
+!semantic_search/embeddings/README.md

@@ -1,0 +1,2402 @@
+[
+  {
+    "title": "What does the \"yield\" keyword do in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python",
+    "score": 13135
+  },
+  {
+    "title": "What does if __name__ == \"__main__\": do?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/419163/what-does-if-name-main-do",
+    "score": 8442
+  },
+  {
+    "title": "Does Python have a ternary conditional operator?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator",
+    "score": 8127
+  },
+  {
+    "title": "What are metaclasses in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python",
+    "score": 7534
+  },
+  {
+    "title": "How do I check whether a file exists without exceptions?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions",
+    "score": 7349
+  },
+  {
+    "title": "How do I merge two dictionaries in a single expression in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/38987/how-do-i-merge-two-dictionaries-in-a-single-expression-in-python",
+    "score": 7126
+  },
+  {
+    "title": "How do I execute a program or call a system command?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/89228/how-do-i-execute-a-program-or-call-a-system-command",
+    "score": 6295
+  },
+  {
+    "title": "How do I create a directory, and any missing parent directories?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/273192/how-do-i-create-a-directory-and-any-missing-parent-directories",
+    "score": 5825
+  },
+  {
+    "title": "How can I access the index value in a 'for' loop?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/522563/how-can-i-access-the-index-value-in-a-for-loop",
+    "score": 5680
+  },
+  {
+    "title": "How do I make a flat list out of a list of lists?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/952914/how-do-i-make-a-flat-list-out-of-a-list-of-lists",
+    "score": 5517
+  },
+  {
+    "title": "What is the difference between @staticmethod and @classmethod in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python",
+    "score": 4793
+  },
+  {
+    "title": "How slicing in Python works",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/509211/how-slicing-in-python-works",
+    "score": 4711
+  },
+  {
+    "title": "How can I find the index for a given item in a list?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/176918/how-can-i-find-the-index-for-a-given-item-in-a-list",
+    "score": 4491
+  },
+  {
+    "title": "Iterating over a dictionary using a 'for' loop, getting keys",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/3294889/iterating-over-a-dictionary-using-a-for-loop-getting-keys",
+    "score": 4429
+  },
+  {
+    "title": "How can I iterate over rows in a Pandas DataFrame?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/16476924/how-can-i-iterate-over-rows-in-a-pandas-dataframe",
+    "score": 4253
+  },
+  {
+    "title": "How can I use a global variable in a function?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/423379/how-can-i-use-a-global-variable-in-a-function",
+    "score": 4050
+  },
+  {
+    "title": "How do I get the current time in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/415511/how-do-i-get-the-current-time-in-python",
+    "score": 4000
+  },
+  {
+    "title": "How can I catch multiple exceptions in one line? (in the \"except\" block)",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/6470428/how-can-i-catch-multiple-exceptions-in-one-line-in-the-except-block",
+    "score": 3966
+  },
+  {
+    "title": "How do I copy a file?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/123198/how-do-i-copy-a-file",
+    "score": 3961
+  },
+  {
+    "title": "What is __init__.py for?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/448271/what-is-init-py-for",
+    "score": 3942
+  },
+  {
+    "title": "Convert bytes to a string in Python 3",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/606191/convert-bytes-to-a-string-in-python-3",
+    "score": 3887
+  },
+  {
+    "title": "What is the difference between __str__ and __repr__?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/1436703/what-is-the-difference-between-str-and-repr",
+    "score": 3841
+  },
+  {
+    "title": "How do I select rows from a DataFrame based on column values?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values",
+    "score": 3635
+  },
+  {
+    "title": "How can I add new keys to a dictionary?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/1024847/how-can-i-add-new-keys-to-a-dictionary",
+    "score": 3601
+  },
+  {
+    "title": "Does Python have a string 'contains' substring method?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/3437059/does-python-have-a-string-contains-substring-method",
+    "score": 3585
+  },
+  {
+    "title": "How can I delete a file or folder in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/6996603/how-can-i-delete-a-file-or-folder-in-python",
+    "score": 3554
+  },
+  {
+    "title": "\"Least Astonishment\" and the Mutable Default Argument",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/1132941/least-astonishment-and-the-mutable-default-argument",
+    "score": 3511
+  },
+  {
+    "title": "What does ** (double star/asterisk) and * (star/asterisk) do for parameters?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/36901/what-does-double-star-asterisk-and-star-asterisk-do-for-parameters",
+    "score": 3502
+  },
+  {
+    "title": "How can I access environment variables in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/4906977/how-can-i-access-environment-variables-in-python",
+    "score": 3476
+  },
+  {
+    "title": "How do I list all files of a directory?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory",
+    "score": 3463
+  },
+  {
+    "title": "How do I sort a dictionary by value?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value",
+    "score": 3413
+  },
+  {
+    "title": "How do I clone a list so that it doesn't change unexpectedly after assignment?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/2612802/how-do-i-clone-a-list-so-that-it-doesnt-change-unexpectedly-after-assignment",
+    "score": 3371
+  },
+  {
+    "title": "How do I pass a variable by reference?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/986006/how-do-i-pass-a-variable-by-reference",
+    "score": 3365
+  },
+  {
+    "title": "How do I print colored text to the terminal?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/287871/how-do-i-print-colored-text-to-the-terminal",
+    "score": 3332
+  },
+  {
+    "title": "Manually raising (throwing) an exception in Python",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/2052390/manually-raising-throwing-an-exception-in-python",
+    "score": 3322
+  },
+  {
+    "title": "Understanding Python super() with __init__() methods",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/576169/understanding-python-super-with-init-methods",
+    "score": 3298
+  },
+  {
+    "title": "How do I make a time delay?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/510348/how-do-i-make-a-time-delay",
+    "score": 3287
+  },
+  {
+    "title": "How do I change the size of figures drawn with Matplotlib?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/332289/how-do-i-change-the-size-of-figures-drawn-with-matplotlib",
+    "score": 3266
+  },
+  {
+    "title": "How do I concatenate two lists in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/1720421/how-do-i-concatenate-two-lists-in-python",
+    "score": 3237
+  },
+  {
+    "title": "How do I check if a list is empty?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/53513/how-do-i-check-if-a-list-is-empty",
+    "score": 3222
+  },
+  {
+    "title": "How do I make function decorators and chain them together?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/739654/how-do-i-make-function-decorators-and-chain-them-together",
+    "score": 3203
+  },
+  {
+    "title": "How do I split a list into equally-sized chunks?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/312443/how-do-i-split-a-list-into-equally-sized-chunks",
+    "score": 3182
+  },
+  {
+    "title": "Find the current directory and file's directory",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/5137497/find-the-current-directory-and-files-directory",
+    "score": 3144
+  },
+  {
+    "title": "What is the difference between Python's list methods append and extend?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/252703/what-is-the-difference-between-pythons-list-methods-append-and-extend",
+    "score": 3109
+  },
+  {
+    "title": "Renaming column names in Pandas",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/11346283/renaming-column-names-in-pandas",
+    "score": 3074
+  },
+  {
+    "title": "Why is \"1000000000000000 in range(1000000000000001)\" so fast in Python 3?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/30081275/why-is-1000000000000000-in-range1000000000000001-so-fast-in-python-3",
+    "score": 3069
+  },
+  {
+    "title": "How can I remove a key from a Python dictionary?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/11277432/how-can-i-remove-a-key-from-a-python-dictionary",
+    "score": 3024
+  },
+  {
+    "title": "Convert string \"Jun 1 2005 1:33PM\" into datetime",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/466345/convert-string-jun-1-2005-133pm-into-datetime",
+    "score": 3005
+  },
+  {
+    "title": "How to upgrade all Python packages with pip",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/2720014/how-to-upgrade-all-python-packages-with-pip",
+    "score": 2899
+  },
+  {
+    "title": "How to leave/exit/deactivate a Python virtualenv",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/990754/how-to-leave-exit-deactivate-a-python-virtualenv",
+    "score": 2859
+  },
+  {
+    "title": "How can I sort a list of dictionaries by a value of the dictionary in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/72899/how-can-i-sort-a-list-of-dictionaries-by-a-value-of-the-dictionary-in-python",
+    "score": 2859
+  },
+  {
+    "title": "How do I get the last element of a list?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/930397/how-do-i-get-the-last-element-of-a-list",
+    "score": 2813
+  },
+  {
+    "title": "How do I parse a string to a float or int?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/379906/how-do-i-parse-a-string-to-a-float-or-int",
+    "score": 2787
+  },
+  {
+    "title": "How do I install pip on Windows?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows",
+    "score": 2778
+  },
+  {
+    "title": "How do I get a substring of a string in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/663171/how-do-i-get-a-substring-of-a-string-in-python",
+    "score": 2729
+  },
+  {
+    "title": "How do I escape curly-brace ({}) characters characters in a string while using .format?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/5466451/how-do-i-escape-curly-brace-characters-characters-in-a-string-while-using",
+    "score": 2724
+  },
+  {
+    "title": "Check if a given key already exists in a dictionary",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/1602934/check-if-a-given-key-already-exists-in-a-dictionary",
+    "score": 2675
+  },
+  {
+    "title": "Importing files from different folder",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/4383571/importing-files-from-different-folder",
+    "score": 2672
+  },
+  {
+    "title": "Class (static) variables and methods",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/68645/class-static-variables-and-methods",
+    "score": 2637
+  },
+  {
+    "title": "How do I lowercase a string in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/6797984/how-do-i-lowercase-a-string-in-python",
+    "score": 2587
+  },
+  {
+    "title": "How can I check if an object has an attribute?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/610883/how-can-i-check-if-an-object-has-an-attribute",
+    "score": 2537
+  },
+  {
+    "title": "How to print without a newline or space",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/493386/how-to-print-without-a-newline-or-space",
+    "score": 2534
+  },
+  {
+    "title": "Calling a function of a module by using its name (a string)",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/3061/calling-a-function-of-a-module-by-using-its-name-a-string",
+    "score": 2496
+  },
+  {
+    "title": "Limiting floats to two decimal points",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points",
+    "score": 2462
+  },
+  {
+    "title": "How can I randomly select (choose) an item from a list (get a random element)?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/306400/how-can-i-randomly-select-choose-an-item-from-a-list-get-a-random-element",
+    "score": 2444
+  },
+  {
+    "title": "How to remove an element from a list by index",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/627435/how-to-remove-an-element-from-a-list-by-index",
+    "score": 2349
+  },
+  {
+    "title": "Delete a column from a Pandas DataFrame",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/13411544/delete-a-column-from-a-pandas-dataframe",
+    "score": 2342
+  },
+  {
+    "title": "How do I get the number of elements in a list (length of a list) in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/1712227/how-do-i-get-the-number-of-elements-in-a-list-length-of-a-list-in-python",
+    "score": 2307
+  },
+  {
+    "title": "What is the difference between venv, pyvenv, pyenv, virtualenv, virtualenvwrapper, pipenv, etc?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe",
+    "score": 2271
+  },
+  {
+    "title": "How do I pad a string with zeros?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/339007/how-do-i-pad-a-string-with-zeros",
+    "score": 2263
+  },
+  {
+    "title": "How can I determine a Python variable's type?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/402504/how-can-i-determine-a-python-variables-type",
+    "score": 2256
+  },
+  {
+    "title": "Delete an element from a dictionary",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/5844672/delete-an-element-from-a-dictionary",
+    "score": 2249
+  },
+  {
+    "title": "Determine the type of an object?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/2225038/determine-the-type-of-an-object",
+    "score": 2231
+  },
+  {
+    "title": "How do I count the occurrences of a list item?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/2600191/how-do-i-count-the-occurrences-of-a-list-item",
+    "score": 2229
+  },
+  {
+    "title": "How to check if the string is empty in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/9573244/how-to-check-if-the-string-is-empty-in-python",
+    "score": 2229
+  },
+  {
+    "title": "How do I measure elapsed time in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/7370801/how-do-i-measure-elapsed-time-in-python",
+    "score": 2204
+  },
+  {
+    "title": "Why is reading lines from stdin much slower in C++ than Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/9371238/why-is-reading-lines-from-stdin-much-slower-in-c-than-python",
+    "score": 2204
+  },
+  {
+    "title": "Why is it string.join(list) instead of list.join(string)?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/493819/why-is-it-string-joinlist-instead-of-list-joinstring",
+    "score": 2168
+  },
+  {
+    "title": "How do I append to a file?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/4706499/how-do-i-append-to-a-file",
+    "score": 2139
+  },
+  {
+    "title": "Is there a way to run Python on Android?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/101754/is-there-a-way-to-run-python-on-android",
+    "score": 2082
+  },
+  {
+    "title": "How can I remove a trailing newline?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/275018/how-can-i-remove-a-trailing-newline",
+    "score": 2077
+  },
+  {
+    "title": "Static methods in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/735975/static-methods-in-python",
+    "score": 2077
+  },
+  {
+    "title": "How do I split the definition of a long string over multiple lines?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/10660435/how-do-i-split-the-definition-of-a-long-string-over-multiple-lines",
+    "score": 2073
+  },
+  {
+    "title": "Installing specific package version with pip",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/5226311/installing-specific-package-version-with-pip",
+    "score": 2071
+  },
+  {
+    "title": "How to prettyprint a JSON file?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/12943819/how-to-prettyprint-a-json-file",
+    "score": 2061
+  },
+  {
+    "title": "How do I get the row count of a Pandas DataFrame?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe",
+    "score": 2042
+  },
+  {
+    "title": "Getting the class name of an instance",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/510972/getting-the-class-name-of-an-instance",
+    "score": 2036
+  },
+  {
+    "title": "How do I check if a string represents a number (float or int)?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/354038/how-do-i-check-if-a-string-represents-a-number-float-or-int",
+    "score": 2031
+  },
+  {
+    "title": "How to read a file line-by-line into a list?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/3277503/how-to-read-a-file-line-by-line-into-a-list",
+    "score": 2023
+  },
+  {
+    "title": "What's the canonical way to check for type in Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python",
+    "score": 2021
+  },
+  {
+    "title": "Meaning of @classmethod and @staticmethod for a beginner",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/12179271/meaning-of-classmethod-and-staticmethod-for-a-beginner",
+    "score": 2015
+  },
+  {
+    "title": "How can I install packages using pip according to the requirements.txt file from a local directory?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/7225900/how-can-i-install-packages-using-pip-according-to-the-requirements-txt-file-from",
+    "score": 2000
+  },
+  {
+    "title": "How do I declare custom exceptions in modern Python?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/1319615/how-do-i-declare-custom-exceptions-in-modern-python",
+    "score": 1974
+  },
+  {
+    "title": "fatal error: Python.h: No such file or directory",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory",
+    "score": 1945
+  },
+  {
+    "title": "Generate random integers between 0 and 9",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/3996904/generate-random-integers-between-0-and-9",
+    "score": 1931
+  },
+  {
+    "title": "What is the meaning of single and double underscore before an object name?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/1301346/what-is-the-meaning-of-single-and-double-underscore-before-an-object-name",
+    "score": 1925
+  },
+  {
+    "title": "Relative imports for the billionth time",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/14132789/relative-imports-for-the-billionth-time",
+    "score": 1905
+  },
+  {
+    "title": "Relative imports in Python 3",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/16981921/relative-imports-in-python-3",
+    "score": 1892
+  },
+  {
+    "title": "How do I write JSON data to a file?",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/12309269/how-do-i-write-json-data-to-a-file",
+    "score": 1887
+  },
+  {
+    "title": "Use a different Python version with virtualenv",
+    "tag": "python",
+    "link": "https://stackoverflow.com/questions/1534210/use-a-different-python-version-with-virtualenv",
+    "score": 1885
+  },
+  {
+    "title": "How to make a great R reproducible example",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example",
+    "score": 2462
+  },
+  {
+    "title": "How to join (merge) data frames (inner, outer, left, right)",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1299871/how-to-join-merge-data-frames-inner-outer-left-right",
+    "score": 1572
+  },
+  {
+    "title": "Sort (order) data frame rows by multiple columns",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1296646/sort-order-data-frame-rows-by-multiple-columns",
+    "score": 1512
+  },
+  {
+    "title": "Grouping functions (tapply, by, aggregate) and the *apply family",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/3505701/grouping-functions-tapply-by-aggregate-and-the-apply-family",
+    "score": 1158
+  },
+  {
+    "title": "Remove rows with all or some NAs (missing values) in data.frame",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/4862178/remove-rows-with-all-or-some-nas-missing-values-in-data-frame",
+    "score": 1099
+  },
+  {
+    "title": "Drop data frame columns by name",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/4605206/drop-data-frame-columns-by-name",
+    "score": 1054
+  },
+  {
+    "title": "How do I replace NA values with zeros in an R dataframe?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/8161836/how-do-i-replace-na-values-with-zeros-in-an-r-dataframe",
+    "score": 996
+  },
+  {
+    "title": "What are the differences between \"=\" and \"<-\" assignment operators?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1741820/what-are-the-differences-between-and-assignment-operators",
+    "score": 975
+  },
+  {
+    "title": "Rotating and spacing axis labels in ggplot2",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1330989/rotating-and-spacing-axis-labels-in-ggplot2",
+    "score": 929
+  },
+  {
+    "title": "data.table vs dplyr: can one do something well the other can't or does poorly?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/21435339/data-table-vs-dplyr-can-one-do-something-well-the-other-cant-or-does-poorly",
+    "score": 921
+  },
+  {
+    "title": "How can we make xkcd style graphs?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/12675147/how-can-we-make-xkcd-style-graphs",
+    "score": 772
+  },
+  {
+    "title": "How should I deal with \"package 'xxx' is not available (for R version x.y.z)\" warning?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/25721884/how-should-i-deal-with-package-xxx-is-not-available-for-r-version-x-y-z-wa",
+    "score": 723
+  },
+  {
+    "title": "How to convert a factor to integer\\numeric without loss of information?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/3418128/how-to-convert-a-factor-to-integer-numeric-without-loss-of-information",
+    "score": 716
+  },
+  {
+    "title": "How can I view the source code for a function?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/19226816/how-can-i-view-the-source-code-for-a-function",
+    "score": 703
+  },
+  {
+    "title": "Plot two graphs in a same plot",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/2564258/plot-two-graphs-in-a-same-plot",
+    "score": 694
+  },
+  {
+    "title": "The difference between bracket [ ] and double bracket [[ ]] for accessing the elements of a list or dataframe",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1169456/the-difference-between-bracket-and-double-bracket-for-accessing-the-el",
+    "score": 692
+  },
+  {
+    "title": "How to unload a package without restarting R",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/6979917/how-to-unload-a-package-without-restarting-r",
+    "score": 689
+  },
+  {
+    "title": "Run R script from command line",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/18306362/run-r-script-from-command-line",
+    "score": 679
+  },
+  {
+    "title": "What is the difference between require() and library()?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/5595512/what-is-the-difference-between-require-and-library",
+    "score": 676
+  },
+  {
+    "title": "Convert a list to a data frame",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/4227223/convert-a-list-to-a-data-frame",
+    "score": 650
+  },
+  {
+    "title": "Test if a vector contains a given element",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1169248/test-if-a-vector-contains-a-given-element",
+    "score": 642
+  },
+  {
+    "title": "Drop unused factor levels in a subsetted data frame",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1195826/drop-unused-factor-levels-in-a-subsetted-data-frame",
+    "score": 611
+  },
+  {
+    "title": "Create an empty data.frame",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/10689055/create-an-empty-data-frame",
+    "score": 609
+  },
+  {
+    "title": "How can I find out which package version is loaded in R?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/11103189/how-can-i-find-out-which-package-version-is-loaded-in-r",
+    "score": 584
+  },
+  {
+    "title": "Quickly reading very large tables as dataframes",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1727772/quickly-reading-very-large-tables-as-dataframes",
+    "score": 577
+  },
+  {
+    "title": "How to change legend title in ggplot",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/14622421/how-to-change-legend-title-in-ggplot",
+    "score": 551
+  },
+  {
+    "title": "Tricks to manage the available memory in an R session",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1358003/tricks-to-manage-the-available-memory-in-an-r-session",
+    "score": 550
+  },
+  {
+    "title": "How to use the tryCatch() function?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/12193779/how-to-use-the-trycatch-function",
+    "score": 549
+  },
+  {
+    "title": "Folder management with r : Check existence of directory and create it if it doesn't exist",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/4216753/folder-management-with-r-check-existence-of-directory-and-create-it-if-it-does",
+    "score": 537
+  },
+  {
+    "title": "How to find the statistical mode?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/2547402/how-to-find-the-statistical-mode",
+    "score": 522
+  },
+  {
+    "title": "How to sum a variable by group",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1660124/how-to-sum-a-variable-by-group",
+    "score": 521
+  },
+  {
+    "title": "Combine a list of data frames into one data frame by row",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/2851327/combine-a-list-of-data-frames-into-one-data-frame-by-row",
+    "score": 516
+  },
+  {
+    "title": "How do I install an R package from source?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1474081/how-do-i-install-an-r-package-from-source",
+    "score": 504
+  },
+  {
+    "title": "How to add leading zeros?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/5812493/how-to-add-leading-zeros",
+    "score": 503
+  },
+  {
+    "title": "Changing column names of a data frame",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/6081439/changing-column-names-of-a-data-frame",
+    "score": 494
+  },
+  {
+    "title": "Counting the number of elements with the values of x in a vector",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1923273/counting-the-number-of-elements-with-the-values-of-x-in-a-vector",
+    "score": 493
+  },
+  {
+    "title": "How can two strings be concatenated?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/7201341/how-can-two-strings-be-concatenated",
+    "score": 488
+  },
+  {
+    "title": "How to rename a single column in a data.frame?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/7531868/how-to-rename-a-single-column-in-a-data-frame",
+    "score": 481
+  },
+  {
+    "title": "Cluster analysis in R: determine the optimal number of clusters",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/15376075/cluster-analysis-in-r-determine-the-optimal-number-of-clusters",
+    "score": 465
+  },
+  {
+    "title": "Extracting specific columns from a data frame",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame",
+    "score": 463
+  },
+  {
+    "title": "Write lines of text to a file in R",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/2470248/write-lines-of-text-to-a-file-in-r",
+    "score": 462
+  },
+  {
+    "title": "Side-by-side plots with ggplot2",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1249548/side-by-side-plots-with-ggplot2",
+    "score": 459
+  },
+  {
+    "title": "Elegant way to check for missing packages and install them?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/4090169/elegant-way-to-check-for-missing-packages-and-install-them",
+    "score": 459
+  },
+  {
+    "title": "Sample random rows in dataframe",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/8273313/sample-random-rows-in-dataframe",
+    "score": 458
+  },
+  {
+    "title": "Why is `[` better than `subset`?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/9860090/why-is-better-than-subset",
+    "score": 449
+  },
+  {
+    "title": "Is there an R function for finding the index of an element in a vector?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/5577727/is-there-an-r-function-for-finding-the-index-of-an-element-in-a-vector",
+    "score": 448
+  },
+  {
+    "title": "How to set limits for axes in ggplot2 R plots?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/3606697/how-to-set-limits-for-axes-in-ggplot2-r-plots",
+    "score": 447
+  },
+  {
+    "title": "How can I trim leading and trailing white space?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/2261079/how-can-i-trim-leading-and-trailing-white-space",
+    "score": 428
+  },
+  {
+    "title": "How to find the length of a string in R",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/11134812/how-to-find-the-length-of-a-string-in-r",
+    "score": 416
+  },
+  {
+    "title": "Test if characters are in a string",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/10128617/test-if-characters-are-in-a-string",
+    "score": 412
+  },
+  {
+    "title": "Center Plot title in ggplot2",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/40675778/center-plot-title-in-ggplot2",
+    "score": 409
+  },
+  {
+    "title": "Convert data.frame columns from factors to characters",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/2851015/convert-data-frame-columns-from-factors-to-characters",
+    "score": 405
+  },
+  {
+    "title": "Remove legend ggplot 2.2",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/35618260/remove-legend-ggplot-2-2",
+    "score": 404
+  },
+  {
+    "title": "Order Bars in ggplot2 bar graph",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/5208679/order-bars-in-ggplot2-bar-graph",
+    "score": 403
+  },
+  {
+    "title": "How does one reorder columns in a data frame?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/5620885/how-does-one-reorder-columns-in-a-data-frame",
+    "score": 399
+  },
+  {
+    "title": "Representing Parametric Survival Model in 'Counting Process' form in JAGS",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/36733638/representing-parametric-survival-model-in-counting-process-form-in-jags",
+    "score": 394
+  },
+  {
+    "title": "How to reshape data from long to wide format",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/5890584/how-to-reshape-data-from-long-to-wide-format",
+    "score": 393
+  },
+  {
+    "title": "Opposite of %in%: exclude rows with values specified in a vector",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/5831794/opposite-of-in-exclude-rows-with-values-specified-in-a-vector",
+    "score": 388
+  },
+  {
+    "title": "Extracting the last n characters from a string in R",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/7963898/extracting-the-last-n-characters-from-a-string-in-r",
+    "score": 386
+  },
+  {
+    "title": "How to check if object (variable) is defined in R?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/9368900/how-to-check-if-object-variable-is-defined-in-r",
+    "score": 384
+  },
+  {
+    "title": "How to drop columns by name in a data frame",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/5234117/how-to-drop-columns-by-name-in-a-data-frame",
+    "score": 384
+  },
+  {
+    "title": "How can I disable scientific notation?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/5352099/how-can-i-disable-scientific-notation",
+    "score": 383
+  },
+  {
+    "title": "Function to clear the console in R and RStudio",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/14260340/function-to-clear-the-console-in-r-and-rstudio",
+    "score": 375
+  },
+  {
+    "title": "How can I remove an element from a list?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/652136/how-can-i-remove-an-element-from-a-list",
+    "score": 375
+  },
+  {
+    "title": "Formatting Decimal places in R",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/3443687/formatting-decimal-places-in-r",
+    "score": 375
+  },
+  {
+    "title": "Plotting two variables as lines using ggplot2 on the same graph",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/3777174/plotting-two-variables-as-lines-using-ggplot2-on-the-same-graph",
+    "score": 374
+  },
+  {
+    "title": "Measuring function execution time in R",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/6262203/measuring-function-execution-time-in-r",
+    "score": 372
+  },
+  {
+    "title": "Evaluate expression given as a string",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1743698/evaluate-expression-given-as-a-string",
+    "score": 372
+  },
+  {
+    "title": "How to access the last value in a vector?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/77434/how-to-access-the-last-value-in-a-vector",
+    "score": 368
+  },
+  {
+    "title": "ggplot with 2 y axes on each side and different scales",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/3099219/ggplot-with-2-y-axes-on-each-side-and-different-scales",
+    "score": 363
+  },
+  {
+    "title": "Concatenate a vector of strings/character",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/2098368/concatenate-a-vector-of-strings-character",
+    "score": 363
+  },
+  {
+    "title": "How can I save a plot as an image on the disk?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/7144118/how-can-i-save-a-plot-as-an-image-on-the-disk",
+    "score": 362
+  },
+  {
+    "title": "Simultaneously merge multiple data.frames in a list",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/8091303/simultaneously-merge-multiple-data-frames-in-a-list",
+    "score": 355
+  },
+  {
+    "title": "Split data frame string column into multiple columns",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/4350440/split-data-frame-string-column-into-multiple-columns",
+    "score": 352
+  },
+  {
+    "title": "Remove all of x axis labels in ggplot",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/35090883/remove-all-of-x-axis-labels-in-ggplot",
+    "score": 349
+  },
+  {
+    "title": "How to correctly use lists?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/2050790/how-to-correctly-use-lists",
+    "score": 349
+  },
+  {
+    "title": "Difference between Boolean operators && and & and between || and | in R",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/6558921/difference-between-boolean-operators-and-and-between-and-in-r",
+    "score": 347
+  },
+  {
+    "title": "Replace specific characters within strings",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/11936339/replace-specific-characters-within-strings",
+    "score": 346
+  },
+  {
+    "title": "Add regression line equation and R^2 on graph",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/7549694/add-regression-line-equation-and-r2-on-graph",
+    "score": 340
+  },
+  {
+    "title": "Combine two data frames by rows (rbind) when they have different sets of columns",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/3402371/combine-two-data-frames-by-rows-rbind-when-they-have-different-sets-of-columns",
+    "score": 339
+  },
+  {
+    "title": "How to import multiple .csv files at once?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/11433432/how-to-import-multiple-csv-files-at-once",
+    "score": 335
+  },
+  {
+    "title": "Update R using RStudio",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/13656699/update-r-using-rstudio",
+    "score": 334
+  },
+  {
+    "title": "Remove an entire column from a data.frame in R",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/6286313/remove-an-entire-column-from-a-data-frame-in-r",
+    "score": 332
+  },
+  {
+    "title": "Filter rows which contain a certain string",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/22850026/filter-rows-which-contain-a-certain-string",
+    "score": 329
+  },
+  {
+    "title": "How to convert a data frame column to numeric type?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/2288485/how-to-convert-a-data-frame-column-to-numeric-type",
+    "score": 327
+  },
+  {
+    "title": "YAML current date in rmarkdown",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/23449319/yaml-current-date-in-rmarkdown",
+    "score": 322
+  },
+  {
+    "title": "How to change facet labels?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/3472980/how-to-change-facet-labels",
+    "score": 319
+  },
+  {
+    "title": "How do I delete rows in a data frame?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/12328056/how-do-i-delete-rows-in-a-data-frame",
+    "score": 319
+  },
+  {
+    "title": "Why are these numbers not equal?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/9508518/why-are-these-numbers-not-equal",
+    "score": 317
+  },
+  {
+    "title": "Turning off some legends in a ggplot",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/14604435/turning-off-some-legends-in-a-ggplot",
+    "score": 314
+  },
+  {
+    "title": "How to properly document S4 class slots using Roxygen2?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/7368262/how-to-properly-document-s4-class-slots-using-roxygen2",
+    "score": 314
+  },
+  {
+    "title": "Split a vector into chunks",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/3318333/split-a-vector-into-chunks",
+    "score": 309
+  },
+  {
+    "title": "Determine path of the executing script",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/1815606/determine-path-of-the-executing-script",
+    "score": 308
+  },
+  {
+    "title": "How can I read command line parameters from an R script?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/2151212/how-can-i-read-command-line-parameters-from-an-r-script",
+    "score": 306
+  },
+  {
+    "title": "Remove the kernel on a Jupyter Notebook",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/42635310/remove-the-kernel-on-a-jupyter-notebook",
+    "score": 303
+  },
+  {
+    "title": "How can I remove all objects but one from the workspace in R?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/6190051/how-can-i-remove-all-objects-but-one-from-the-workspace-in-r",
+    "score": 302
+  },
+  {
+    "title": "Use dynamic name for new column/variable in `dplyr`",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/26003574/use-dynamic-name-for-new-column-variable-in-dplyr",
+    "score": 302
+  },
+  {
+    "title": "Force R not to use exponential notation (e.g. e+10)?",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/9397664/force-r-not-to-use-exponential-notation-e-g-e10",
+    "score": 294
+  },
+  {
+    "title": "Set margin size when converting from Markdown to PDF with pandoc",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/13515893/set-margin-size-when-converting-from-markdown-to-pdf-with-pandoc",
+    "score": 294
+  },
+  {
+    "title": "Increase number of axis ticks",
+    "tag": "r",
+    "link": "https://stackoverflow.com/questions/11335836/increase-number-of-axis-ticks",
+    "score": 293
+  },
+  {
+    "title": "Why does HTML think \u201cchucknorris\u201d is a color?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color",
+    "score": 8957
+  },
+  {
+    "title": "How can I validate an email address in JavaScript?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/46155/how-can-i-validate-an-email-address-in-javascript",
+    "score": 5466
+  },
+  {
+    "title": "How do I check whether a checkbox is checked in jQuery?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/901712/how-do-i-check-whether-a-checkbox-is-checked-in-jquery",
+    "score": 5231
+  },
+  {
+    "title": "How can I horizontally center an element?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/114543/how-can-i-horizontally-center-an-element",
+    "score": 5098
+  },
+  {
+    "title": "Which \"href\" value should I use for JavaScript links, \"#\" or \"javascript:void(0)\"?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/134845/which-href-value-should-i-use-for-javascript-links-or-javascriptvoid0",
+    "score": 4458
+  },
+  {
+    "title": "Change an HTML input's placeholder color with CSS",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/2610497/change-an-html-inputs-placeholder-color-with-css",
+    "score": 4419
+  },
+  {
+    "title": "Set cellpadding and cellspacing in CSS?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/339923/set-cellpadding-and-cellspacing-in-css",
+    "score": 3727
+  },
+  {
+    "title": "How can I change an element's class with JavaScript?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/195951/how-can-i-change-an-elements-class-with-javascript",
+    "score": 3457
+  },
+  {
+    "title": "How do I disable the resizable property of a textarea?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/5235142/how-do-i-disable-the-resizable-property-of-a-textarea",
+    "score": 3350
+  },
+  {
+    "title": "How do you disable browser autocomplete on web form field / input tags?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/2530/how-do-you-disable-browser-autocomplete-on-web-form-field-input-tags",
+    "score": 3272
+  },
+  {
+    "title": "Is it possible to apply CSS to half of a character?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/23569441/is-it-possible-to-apply-css-to-half-of-a-character",
+    "score": 3194
+  },
+  {
+    "title": "How to store objects in HTML5 localStorage/sessionStorage",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/2010892/how-to-store-objects-in-html5-localstorage-sessionstorage",
+    "score": 3103
+  },
+  {
+    "title": "How do I modify the URL without reloading the page?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/824349/how-do-i-modify-the-url-without-reloading-the-page",
+    "score": 3085
+  },
+  {
+    "title": "How can I know which radio button is selected via jQuery?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/596351/how-can-i-know-which-radio-button-is-selected-via-jquery",
+    "score": 3080
+  },
+  {
+    "title": "I need an unordered list without any bullets",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/1027354/i-need-an-unordered-list-without-any-bullets",
+    "score": 2948
+  },
+  {
+    "title": "Make a div fill the height of the remaining screen space",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/90178/make-a-div-fill-the-height-of-the-remaining-screen-space",
+    "score": 2861
+  },
+  {
+    "title": "How do I vertically center text with CSS?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/8865458/how-do-i-vertically-center-text-with-css",
+    "score": 2808
+  },
+  {
+    "title": "How do I create an HTML button that acts like a link?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/2906582/how-do-i-create-an-html-button-that-acts-like-a-link",
+    "score": 2778
+  },
+  {
+    "title": "How to make a div 100% height of the browser window",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/1575141/how-to-make-a-div-100-height-of-the-browser-window",
+    "score": 2706
+  },
+  {
+    "title": "How do I reduce the opacity of an element's background using CSS?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/806000/how-do-i-reduce-the-opacity-of-an-elements-background-using-css",
+    "score": 2554
+  },
+  {
+    "title": "How can I make a div not larger than its contents?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/450903/how-can-i-make-a-div-not-larger-than-its-contents",
+    "score": 2535
+  },
+  {
+    "title": "Get the size of the screen, current web page and browser window",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/3437786/get-the-size-of-the-screen-current-web-page-and-browser-window",
+    "score": 2469
+  },
+  {
+    "title": "RegEx match open tags except XHTML self-contained tags",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags",
+    "score": 2384
+  },
+  {
+    "title": "Retrieve the position (X,Y) of an HTML element",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/442404/retrieve-the-position-x-y-of-an-html-element",
+    "score": 2375
+  },
+  {
+    "title": "How do you parse and process HTML/XML in PHP?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/3577641/how-do-you-parse-and-process-html-xml-in-php",
+    "score": 2327
+  },
+  {
+    "title": "HTML: Valid id attribute values?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/70579/html-valid-id-attribute-values",
+    "score": 2313
+  },
+  {
+    "title": "How can I select an element with multiple classes in jQuery?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/1041344/how-can-i-select-an-element-with-multiple-classes-in-jquery",
+    "score": 2304
+  },
+  {
+    "title": "Vertically align text next to an image?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/489340/vertically-align-text-next-to-an-image",
+    "score": 2279
+  },
+  {
+    "title": "HTML 5: Is it <br>, <br/>, or <br />?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/1946426/html-5-is-it-br-br-or-br",
+    "score": 2197
+  },
+  {
+    "title": "How to auto-resize an image while maintaining aspect ratio",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/3029422/how-to-auto-resize-an-image-while-maintaining-aspect-ratio",
+    "score": 2139
+  },
+  {
+    "title": "How do I make a placeholder for a 'select' box?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box",
+    "score": 2093
+  },
+  {
+    "title": "How can I set the default value for an HTML <select> element?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/3518002/how-can-i-set-the-default-value-for-an-html-select-element",
+    "score": 2024
+  },
+  {
+    "title": "Hide scroll bar, but while still being able to scroll",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll",
+    "score": 2019
+  },
+  {
+    "title": "Where should I put <script> tags in HTML markup?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup",
+    "score": 1961
+  },
+  {
+    "title": "What does enctype='multipart/form-data' mean?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/4526273/what-does-enctype-multipart-form-data-mean",
+    "score": 1960
+  },
+  {
+    "title": "How to move an element into another element",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/1279957/how-to-move-an-element-into-another-element",
+    "score": 1938
+  },
+  {
+    "title": "<button> vs. <input type=\"button\"> -- which to use?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/469059/button-vs-input-type-button-which-to-use",
+    "score": 1927
+  },
+  {
+    "title": "Vanilla JavaScript equivalent of jQuery's $.ready() - how to call a function when the page/DOM is ready for it",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/9899372/vanilla-javascript-equivalent-of-jquerys-ready-how-to-call-a-function-whe",
+    "score": 1921
+  },
+  {
+    "title": "How to align checkboxes and their labels consistently cross-browsers",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/306252/how-to-align-checkboxes-and-their-labels-consistently-cross-browsers",
+    "score": 1904
+  },
+  {
+    "title": "How to redirect one HTML page to another on load",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/5411538/how-to-redirect-one-html-page-to-another-on-load",
+    "score": 1878
+  },
+  {
+    "title": "What does <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> do?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compatible-content-ie-edge-do",
+    "score": 1755
+  },
+  {
+    "title": "How to add a class to an HTML element with JavaScript?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/507138/how-to-add-a-class-to-an-html-element-with-javascript",
+    "score": 1753
+  },
+  {
+    "title": "How Can I add HTML And CSS Into PDF",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/391005/how-can-i-add-html-and-css-into-pdf",
+    "score": 1724
+  },
+  {
+    "title": "How can I vertically center a div element for all browsers using CSS?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/396145/how-can-i-vertically-center-a-div-element-for-all-browsers-using-css",
+    "score": 1692
+  },
+  {
+    "title": "<meta charset=\"utf-8\"> vs <meta http-equiv=\"Content-Type\">",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/4696499/meta-charset-utf-8-vs-meta-http-equiv-content-type",
+    "score": 1662
+  },
+  {
+    "title": "How do I style a <select> dropdown with only CSS?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/1895476/how-do-i-style-a-select-dropdown-with-only-css",
+    "score": 1655
+  },
+  {
+    "title": "Creating a div element in jQuery",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/867916/creating-a-div-element-in-jquery",
+    "score": 1651
+  },
+  {
+    "title": "How do I vertically align text in a div?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/2939914/how-do-i-vertically-align-text-in-a-div",
+    "score": 1613
+  },
+  {
+    "title": "How can I select an element by name with jQuery?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/1107220/how-can-i-select-an-element-by-name-with-jquery",
+    "score": 1564
+  },
+  {
+    "title": "Why don't self-closing script elements work?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/69913/why-dont-self-closing-script-elements-work",
+    "score": 1534
+  },
+  {
+    "title": "Check if checkbox is checked with jQuery",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/2204250/check-if-checkbox-is-checked-with-jquery",
+    "score": 1516
+  },
+  {
+    "title": "Local Storage vs Cookies",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/3220660/local-storage-vs-cookies",
+    "score": 1513
+  },
+  {
+    "title": "offsetting an html anchor to adjust for fixed header",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header",
+    "score": 1496
+  },
+  {
+    "title": "How to change the href attribute for a hyperlink using jQuery",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/179713/how-to-change-the-href-attribute-for-a-hyperlink-using-jquery",
+    "score": 1471
+  },
+  {
+    "title": "Maintain the aspect ratio of a div with CSS",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/1495407/maintain-the-aspect-ratio-of-a-div-with-css",
+    "score": 1470
+  },
+  {
+    "title": "How to align content of a div to the bottom",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/585945/how-to-align-content-of-a-div-to-the-bottom",
+    "score": 1470
+  },
+  {
+    "title": "jQuery Get Selected Option From Dropdown",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/10659097/jquery-get-selected-option-from-dropdown",
+    "score": 1452
+  },
+  {
+    "title": "What characters can be used for up/down triangle (arrow without stem) for display in HTML?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/2701192/what-characters-can-be-used-for-up-down-triangle-arrow-without-stem-for-displa",
+    "score": 1417
+  },
+  {
+    "title": "What is the purpose of the \"role\" attribute in HTML?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/10403138/what-is-the-purpose-of-the-role-attribute-in-html",
+    "score": 1410
+  },
+  {
+    "title": "How do I reformat HTML code using Sublime Text 2?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/8839753/how-do-i-reformat-html-code-using-sublime-text-2",
+    "score": 1402
+  },
+  {
+    "title": "Recommended way to embed PDF in HTML?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/291813/recommended-way-to-embed-pdf-in-html",
+    "score": 1398
+  },
+  {
+    "title": "How to overlay one div over another div",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/2941189/how-to-overlay-one-div-over-another-div",
+    "score": 1382
+  },
+  {
+    "title": "How can I write 'a:hover' in inline CSS?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/1033156/how-can-i-write-ahover-in-inline-css",
+    "score": 1381
+  },
+  {
+    "title": "Can I hide the HTML5 number input\u2019s spin box?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/3790935/can-i-hide-the-html5-number-input-s-spin-box",
+    "score": 1374
+  },
+  {
+    "title": "jQuery document.createElement equivalent?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/268490/jquery-document-createelement-equivalent",
+    "score": 1368
+  },
+  {
+    "title": "Open link in new tab or window",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window",
+    "score": 1355
+  },
+  {
+    "title": "How to clear the canvas for redrawing",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/2142535/how-to-clear-the-canvas-for-redrawing",
+    "score": 1331
+  },
+  {
+    "title": "How can I tell if a DOM element is visible in the current viewport?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/123999/how-can-i-tell-if-a-dom-element-is-visible-in-the-current-viewport",
+    "score": 1305
+  },
+  {
+    "title": "How to remove the space between inline/inline-block elements?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/5078239/how-to-remove-the-space-between-inline-inline-block-elements",
+    "score": 1298
+  },
+  {
+    "title": "WebSockets vs. Server-Sent events/EventSource",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/5195452/websockets-vs-server-sent-events-eventsource",
+    "score": 1281
+  },
+  {
+    "title": "How to prevent buttons from submitting forms",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/932653/how-to-prevent-buttons-from-submitting-forms",
+    "score": 1263
+  },
+  {
+    "title": "How can I center text (horizontally and vertically) inside a div block?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-and-vertically-inside-a-div-block",
+    "score": 1262
+  },
+  {
+    "title": "How do I retrieve an HTML element's actual width and height?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/294250/how-do-i-retrieve-an-html-elements-actual-width-and-height",
+    "score": 1248
+  },
+  {
+    "title": "How to display Base64 images in HTML",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/8499633/how-to-display-base64-images-in-html",
+    "score": 1239
+  },
+  {
+    "title": "How to apply CSS to iframe?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/217776/how-to-apply-css-to-iframe",
+    "score": 1237
+  },
+  {
+    "title": "How to create a checkbox with a clickable label?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/6293588/how-to-create-a-checkbox-with-a-clickable-label",
+    "score": 1217
+  },
+  {
+    "title": "Is there a float input type in HTML5?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/19011861/is-there-a-float-input-type-in-html5",
+    "score": 1209
+  },
+  {
+    "title": "Selecting element by data attribute with jQuery",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/2487747/selecting-element-by-data-attribute-with-jquery",
+    "score": 1209
+  },
+  {
+    "title": "What is the difference between <section> and <div>?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/6939864/what-is-the-difference-between-section-and-div",
+    "score": 1194
+  },
+  {
+    "title": "Is there any way to change input type=\"date\" format?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/7372038/is-there-any-way-to-change-input-type-date-format",
+    "score": 1160
+  },
+  {
+    "title": "Styling an <input type=\"file\"> button",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/572768/styling-an-input-type-file-button",
+    "score": 1157
+  },
+  {
+    "title": "Adding HTML entities using CSS content",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/190396/adding-html-entities-using-css-content",
+    "score": 1143
+  },
+  {
+    "title": "Can I set subject/content of email using mailto:?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-using-mailto",
+    "score": 1132
+  },
+  {
+    "title": "Get the value in an input text box",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/4088467/get-the-value-in-an-input-text-box",
+    "score": 1128
+  },
+  {
+    "title": "HTML text input allow only numeric input",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/469357/html-text-input-allow-only-numeric-input",
+    "score": 1127
+  },
+  {
+    "title": "Make body have 100% of the browser height",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/6654958/make-body-have-100-of-the-browser-height",
+    "score": 1126
+  },
+  {
+    "title": "How to make JavaScript execute after page load?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/807878/how-to-make-javascript-execute-after-page-load",
+    "score": 1120
+  },
+  {
+    "title": "Scroll to bottom of div?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/270612/scroll-to-bottom-of-div",
+    "score": 1100
+  },
+  {
+    "title": "How can I vertically align elements in a div?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/79461/how-can-i-vertically-align-elements-in-a-div",
+    "score": 1097
+  },
+  {
+    "title": "How to style a checkbox using CSS",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/4148499/how-to-style-a-checkbox-using-css",
+    "score": 1094
+  },
+  {
+    "title": "What is a clearfix?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/8554043/what-is-a-clearfix",
+    "score": 1089
+  },
+  {
+    "title": "Use jQuery to hide a DIV when the user clicks outside of it",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/1403615/use-jquery-to-hide-a-div-when-the-user-clicks-outside-of-it",
+    "score": 1075
+  },
+  {
+    "title": "How do you keep parents of floated elements from collapsing?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/218760/how-do-you-keep-parents-of-floated-elements-from-collapsing",
+    "score": 1075
+  },
+  {
+    "title": "Using HTML5/Canvas/JavaScript to take in-browser screenshots",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/4912092/using-html5-canvas-javascript-to-take-in-browser-screenshots",
+    "score": 1059
+  },
+  {
+    "title": "How can I get the data-id attribute?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/5309926/how-can-i-get-the-data-id-attribute",
+    "score": 1056
+  },
+  {
+    "title": "Tab character instead of multiple non-breaking spaces (\"nbsp\")?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/1571648/tab-character-instead-of-multiple-non-breaking-spaces-nbsp",
+    "score": 1052
+  },
+  {
+    "title": "Can HTML checkboxes be set to readonly?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/155291/can-html-checkboxes-be-set-to-readonly",
+    "score": 1036
+  },
+  {
+    "title": "How to play audio?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/9419263/how-to-play-audio",
+    "score": 1035
+  },
+  {
+    "title": "Check if an element contains a class in JavaScript?",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/5898656/check-if-an-element-contains-a-class-in-javascript",
+    "score": 1026
+  },
+  {
+    "title": "Prevent users from submitting a form by hitting Enter",
+    "tag": "html",
+    "link": "https://stackoverflow.com/questions/895171/prevent-users-from-submitting-a-form-by-hitting-enter",
+    "score": 1020
+  },
+  {
+    "title": "How to disable text selection highlighting",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/826782/how-to-disable-text-selection-highlighting",
+    "score": 6168
+  },
+  {
+    "title": "How can I horizontally center an element?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/114543/how-can-i-horizontally-center-an-element",
+    "score": 5098
+  },
+  {
+    "title": "Change an HTML input's placeholder color with CSS",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/2610497/change-an-html-inputs-placeholder-color-with-css",
+    "score": 4419
+  },
+  {
+    "title": "Is there a CSS parent selector?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/1014861/is-there-a-css-parent-selector",
+    "score": 4330
+  },
+  {
+    "title": "Set cellpadding and cellspacing in CSS?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/339923/set-cellpadding-and-cellspacing-in-css",
+    "score": 3727
+  },
+  {
+    "title": "How do I disable the resizable property of a textarea?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/5235142/how-do-i-disable-the-resizable-property-of-a-textarea",
+    "score": 3350
+  },
+  {
+    "title": "Is it possible to apply CSS to half of a character?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/23569441/is-it-possible-to-apply-css-to-half-of-a-character",
+    "score": 3194
+  },
+  {
+    "title": "How can I transition height: 0; to height: auto; using CSS?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/3508605/how-can-i-transition-height-0-to-height-auto-using-css",
+    "score": 3018
+  },
+  {
+    "title": "I need an unordered list without any bullets",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/1027354/i-need-an-unordered-list-without-any-bullets",
+    "score": 2948
+  },
+  {
+    "title": "Make a div fill the height of the remaining screen space",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/90178/make-a-div-fill-the-height-of-the-remaining-screen-space",
+    "score": 2861
+  },
+  {
+    "title": "How do I vertically center text with CSS?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/8865458/how-do-i-vertically-center-text-with-css",
+    "score": 2808
+  },
+  {
+    "title": "How to make a div 100% height of the browser window",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/1575141/how-to-make-a-div-100-height-of-the-browser-window",
+    "score": 2706
+  },
+  {
+    "title": "What is the difference between margin and padding in CSS?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/2189452/what-is-the-difference-between-margin-and-padding-in-css",
+    "score": 2642
+  },
+  {
+    "title": "How do I reduce the opacity of an element's background using CSS?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/806000/how-do-i-reduce-the-opacity-of-an-elements-background-using-css",
+    "score": 2554
+  },
+  {
+    "title": "How can I make a div not larger than its contents?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/450903/how-can-i-make-a-div-not-larger-than-its-contents",
+    "score": 2535
+  },
+  {
+    "title": "What's the difference between SCSS and Sass?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass",
+    "score": 2520
+  },
+  {
+    "title": "How can I change the cursor into a hand when a user hovers over a list item?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/3087975/how-can-i-change-the-cursor-into-a-hand-when-a-user-hovers-over-a-list-item",
+    "score": 2438
+  },
+  {
+    "title": "Retrieve the position (X,Y) of an HTML element",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/442404/retrieve-the-position-x-y-of-an-html-element",
+    "score": 2375
+  },
+  {
+    "title": "How can I select an element with multiple classes in jQuery?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/1041344/how-can-i-select-an-element-with-multiple-classes-in-jquery",
+    "score": 2304
+  },
+  {
+    "title": "Vertically align text next to an image?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/489340/vertically-align-text-next-to-an-image",
+    "score": 2279
+  },
+  {
+    "title": "How to auto-resize an image while maintaining aspect ratio",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/3029422/how-to-auto-resize-an-image-while-maintaining-aspect-ratio",
+    "score": 2139
+  },
+  {
+    "title": "Click through div to underlying elements",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/3680429/click-through-div-to-underlying-elements",
+    "score": 2115
+  },
+  {
+    "title": "How do I make a placeholder for a 'select' box?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/5805059/how-do-i-make-a-placeholder-for-a-select-box",
+    "score": 2093
+  },
+  {
+    "title": "How do CSS triangles work?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/7073484/how-do-css-triangles-work",
+    "score": 2040
+  },
+  {
+    "title": "Hide scroll bar, but while still being able to scroll",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll",
+    "score": 2019
+  },
+  {
+    "title": "Transitions on the CSS display property",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/3331353/transitions-on-the-css-display-property",
+    "score": 2016
+  },
+  {
+    "title": "Is there a \"previous sibling\" selector?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/1817792/is-there-a-previous-sibling-selector",
+    "score": 1914
+  },
+  {
+    "title": "How to align checkboxes and their labels consistently cross-browsers",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/306252/how-to-align-checkboxes-and-their-labels-consistently-cross-browsers",
+    "score": 1904
+  },
+  {
+    "title": "Sass Variable in CSS calc() function",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/17982111/sass-variable-in-css-calc-function",
+    "score": 1868
+  },
+  {
+    "title": "Font scaling based on size of container",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/16056591/font-scaling-based-on-size-of-container",
+    "score": 1864
+  },
+  {
+    "title": "How to remove focus border (outline) around text/input boxes? (Chrome)",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/3397113/how-to-remove-focus-border-outline-around-text-input-boxes-chrome",
+    "score": 1860
+  },
+  {
+    "title": "How to vertically align an image inside a div",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/7273338/how-to-vertically-align-an-image-inside-a-div",
+    "score": 1751
+  },
+  {
+    "title": "How Can I add HTML And CSS Into PDF",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/391005/how-can-i-add-html-and-css-into-pdf",
+    "score": 1724
+  },
+  {
+    "title": "How can I vertically center a div element for all browsers using CSS?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/396145/how-can-i-vertically-center-a-div-element-for-all-browsers-using-css",
+    "score": 1692
+  },
+  {
+    "title": "How do I style a <select> dropdown with only CSS?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/1895476/how-do-i-style-a-select-dropdown-with-only-css",
+    "score": 1655
+  },
+  {
+    "title": "How can I center an absolutely positioned element in a div?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/1776915/how-can-i-center-an-absolutely-positioned-element-in-a-div",
+    "score": 1614
+  },
+  {
+    "title": "How do I vertically align text in a div?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/2939914/how-do-i-vertically-align-text-in-a-div",
+    "score": 1613
+  },
+  {
+    "title": "How do I set distance between flexbox items?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/20626685/how-do-i-set-distance-between-flexbox-items",
+    "score": 1580
+  },
+  {
+    "title": "offsetting an html anchor to adjust for fixed header",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header",
+    "score": 1496
+  },
+  {
+    "title": "Maintain the aspect ratio of a div with CSS",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/1495407/maintain-the-aspect-ratio-of-a-div-with-css",
+    "score": 1470
+  },
+  {
+    "title": "How to align content of a div to the bottom",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/585945/how-to-align-content-of-a-div-to-the-bottom",
+    "score": 1470
+  },
+  {
+    "title": "How do I combine a background-image and CSS3 gradient on the same element?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/2504071/how-do-i-combine-a-background-image-and-css3-gradient-on-the-same-element",
+    "score": 1436
+  },
+  {
+    "title": "What characters can be used for up/down triangle (arrow without stem) for display in HTML?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/2701192/what-characters-can-be-used-for-up-down-triangle-arrow-without-stem-for-displa",
+    "score": 1417
+  },
+  {
+    "title": "What is the difference between visibility:hidden and display:none?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/133051/what-is-the-difference-between-visibilityhidden-and-displaynone",
+    "score": 1413
+  },
+  {
+    "title": "How to overlay one div over another div",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/2941189/how-to-overlay-one-div-over-another-div",
+    "score": 1382
+  },
+  {
+    "title": "How can I write 'a:hover' in inline CSS?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/1033156/how-can-i-write-ahover-in-inline-css",
+    "score": 1381
+  },
+  {
+    "title": "Can I hide the HTML5 number input\u2019s spin box?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/3790935/can-i-hide-the-html5-number-input-s-spin-box",
+    "score": 1374
+  },
+  {
+    "title": "How can I change the color of an 'svg' element?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/22252472/how-can-i-change-the-color-of-an-svg-element",
+    "score": 1366
+  },
+  {
+    "title": "Which characters are valid in CSS class names/selectors?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/448981/which-characters-are-valid-in-css-class-names-selectors",
+    "score": 1364
+  },
+  {
+    "title": "CSS selector for first element with class",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/2717480/css-selector-for-first-element-with-class",
+    "score": 1361
+  },
+  {
+    "title": "How to remove the space between inline/inline-block elements?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/5078239/how-to-remove-the-space-between-inline-inline-block-elements",
+    "score": 1298
+  },
+  {
+    "title": "How can I center text (horizontally and vertically) inside a div block?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/5703552/how-can-i-center-text-horizontally-and-vertically-inside-a-div-block",
+    "score": 1262
+  },
+  {
+    "title": "How to make Twitter Bootstrap menu dropdown on hover rather than click",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/8878033/how-to-make-twitter-bootstrap-menu-dropdown-on-hover-rather-than-click",
+    "score": 1252
+  },
+  {
+    "title": "Angular: conditional class with *ngClass",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/35269179/angular-conditional-class-with-ngclass",
+    "score": 1247
+  },
+  {
+    "title": "How to apply CSS to iframe?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/217776/how-to-apply-css-to-iframe",
+    "score": 1237
+  },
+  {
+    "title": "Center a column using Twitter Bootstrap",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/18153234/center-a-column-using-twitter-bootstrap",
+    "score": 1236
+  },
+  {
+    "title": "What is the best way to conditionally apply a class?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/7792652/what-is-the-best-way-to-conditionally-apply-a-class",
+    "score": 1203
+  },
+  {
+    "title": "Selecting and manipulating CSS pseudo-elements such as ::before and ::after using javascript (or jQuery)",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/5041494/selecting-and-manipulating-css-pseudo-elements-such-as-before-and-after-usin",
+    "score": 1169
+  },
+  {
+    "title": "Is there any way to change input type=\"date\" format?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/7372038/is-there-any-way-to-change-input-type-date-format",
+    "score": 1160
+  },
+  {
+    "title": "Styling an <input type=\"file\"> button",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/572768/styling-an-input-type-file-button",
+    "score": 1157
+  },
+  {
+    "title": "What does the \"~\" (tilde/squiggle/twiddle) CSS selector mean?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/10782054/what-does-the-tilde-squiggle-twiddle-css-selector-mean",
+    "score": 1153
+  },
+  {
+    "title": "How can I use a not:first-child selector?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/12289853/how-can-i-use-a-notfirst-child-selector",
+    "score": 1145
+  },
+  {
+    "title": "How can I make Bootstrap columns all the same height?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/19695784/how-can-i-make-bootstrap-columns-all-the-same-height",
+    "score": 1145
+  },
+  {
+    "title": "Adding HTML entities using CSS content",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/190396/adding-html-entities-using-css-content",
+    "score": 1143
+  },
+  {
+    "title": "In CSS Flexbox, why are there no \"justify-items\" and \"justify-self\" properties?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/32551291/in-css-flexbox-why-are-there-no-justify-items-and-justify-self-properties",
+    "score": 1136
+  },
+  {
+    "title": "Make body have 100% of the browser height",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/6654958/make-body-have-100-of-the-browser-height",
+    "score": 1126
+  },
+  {
+    "title": "How can I vertically align elements in a div?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/79461/how-can-i-vertically-align-elements-in-a-div",
+    "score": 1097
+  },
+  {
+    "title": "How to style a checkbox using CSS",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/4148499/how-to-style-a-checkbox-using-css",
+    "score": 1094
+  },
+  {
+    "title": "What is a clearfix?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/8554043/what-is-a-clearfix",
+    "score": 1089
+  },
+  {
+    "title": "How do you keep parents of floated elements from collapsing?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/218760/how-do-you-keep-parents-of-floated-elements-from-collapsing",
+    "score": 1075
+  },
+  {
+    "title": "Check if an element contains a class in JavaScript?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/5898656/check-if-an-element-contains-a-class-in-javascript",
+    "score": 1026
+  },
+  {
+    "title": "Limit text length to n lines using CSS",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/3922739/limit-text-length-to-n-lines-using-css",
+    "score": 1021
+  },
+  {
+    "title": "CSS opacity only to background color, not the text on it?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/5135019/css-opacity-only-to-background-color-not-the-text-on-it",
+    "score": 1019
+  },
+  {
+    "title": "How to Right-align flex item?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/22429003/how-to-right-align-flex-item",
+    "score": 1017
+  },
+  {
+    "title": "How do I wrap text in a pre tag?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/248011/how-do-i-wrap-text-in-a-pre-tag",
+    "score": 1017
+  },
+  {
+    "title": "Flexbox: center horizontally and vertically",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/19026884/flexbox-center-horizontally-and-vertically",
+    "score": 1006
+  },
+  {
+    "title": "Can I write a CSS selector selecting elements NOT having a certain class or attribute?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/9110300/can-i-write-a-css-selector-selecting-elements-not-having-a-certain-class-or-attr",
+    "score": 999
+  },
+  {
+    "title": "See :hover state in Chrome Developer Tools",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/4515124/see-hover-state-in-chrome-developer-tools",
+    "score": 988
+  },
+  {
+    "title": "How to center a \"position: absolute\" element",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/8508275/how-to-center-a-position-absolute-element",
+    "score": 984
+  },
+  {
+    "title": "How to align a <div> to the middle (horizontally/width) of the page",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/953918/how-to-align-a-div-to-the-middle-horizontally-width-of-the-page",
+    "score": 978
+  },
+  {
+    "title": "Changing the color of an hr element",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/6382023/changing-the-color-of-an-hr-element",
+    "score": 977
+  },
+  {
+    "title": "How to force image resize and keep aspect ratio?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/12991351/how-to-force-image-resize-and-keep-aspect-ratio",
+    "score": 974
+  },
+  {
+    "title": "Should CSS always precede JavaScript?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/9271276/should-css-always-precede-javascript",
+    "score": 973
+  },
+  {
+    "title": "vertical-align with Bootstrap 3",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/20547819/vertical-align-with-bootstrap-3",
+    "score": 968
+  },
+  {
+    "title": "Remove blue border from css custom-styled button in Chrome",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/20340138/remove-blue-border-from-css-custom-styled-button-in-chrome",
+    "score": 963
+  },
+  {
+    "title": "How can I remove a style added with .css() function?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/4036857/how-can-i-remove-a-style-added-with-css-function",
+    "score": 962
+  },
+  {
+    "title": "How can I position my div at the bottom of its container?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/526035/how-can-i-position-my-div-at-the-bottom-of-its-container",
+    "score": 960
+  },
+  {
+    "title": "How to disable a link using only CSS",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/2091168/how-to-disable-a-link-using-only-css",
+    "score": 958
+  },
+  {
+    "title": "Can a CSS class inherit one or more other classes?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/1065435/can-a-css-class-inherit-one-or-more-other-classes",
+    "score": 955
+  },
+  {
+    "title": "Stretch and scale a CSS image in the background - with CSS only",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/1150163/stretch-and-scale-a-css-image-in-the-background-with-css-only",
+    "score": 945
+  },
+  {
+    "title": "How can I make Flexbox children 100% height of their parent?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/15381172/how-can-i-make-flexbox-children-100-height-of-their-parent",
+    "score": 940
+  },
+  {
+    "title": "Is there a CSS selector for elements containing certain text?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/1520429/is-there-a-css-selector-for-elements-containing-certain-text",
+    "score": 937
+  },
+  {
+    "title": "Space between two rows in a table?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/351058/space-between-two-rows-in-a-table",
+    "score": 913
+  },
+  {
+    "title": "Can I use a :before or :after pseudo-element on an input field?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/2587669/can-i-use-a-before-or-after-pseudo-element-on-an-input-field",
+    "score": 905
+  },
+  {
+    "title": "CSS Background Opacity",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/10422949/css-background-opacity",
+    "score": 898
+  },
+  {
+    "title": "CSS 100% height with padding/margin",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/485827/css-100-height-with-padding-margin",
+    "score": 897
+  },
+  {
+    "title": "What methods of \u2018clearfix\u2019 can I use?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/211383/what-methods-of-clearfix-can-i-use",
+    "score": 897
+  },
+  {
+    "title": "Is it possible to include one CSS file in another?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/147500/is-it-possible-to-include-one-css-file-in-another",
+    "score": 892
+  },
+  {
+    "title": "Why em instead of px?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/609517/why-em-instead-of-px",
+    "score": 871
+  },
+  {
+    "title": "Can the :not() pseudo-class have multiple arguments?",
+    "tag": "css",
+    "link": "https://stackoverflow.com/questions/5684160/can-the-not-pseudo-class-have-multiple-arguments",
+    "score": 868
+  }
+]

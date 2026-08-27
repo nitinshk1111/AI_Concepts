@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+
+# macOS
+.DS_Store
+
+# Large data files (gitignored — regenerate with download/build scripts)
+Embedding/data/
+Vector DB/semantic_search/data/*
+Vector DB/semantic_search/embeddings/*
+
+# Keep placeholder files
+!Vector DB/semantic_search/data/.gitkeep
+!Vector DB/semantic_search/data/README.md
+!Vector DB/semantic_search/embeddings/.gitkeep
+!Vector DB/semantic_search/embeddings/README.md
+
+# Generated HTML plots
+Embedding/embedding_plot.html
+Embedding/embedding_plot_tsne.html
+Embedding/cluster_plot.html
