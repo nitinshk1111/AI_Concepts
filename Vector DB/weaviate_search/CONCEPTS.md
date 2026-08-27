@@ -209,7 +209,50 @@ compiled code and optimized memory access.
 
 ---
 
-## 9. The full picture — what you can now say
+## 9. Recall@K — how accuracy is measured in ANN search
+
+Weaviate (like the hand-built HNSW) is an **approximate** nearest neighbour search.
+It trades a small amount of accuracy for a large gain in speed. Recall@K is the
+metric that quantifies exactly how much accuracy was traded away.
+
+```
+recall@K = |ANN top-K ∩ FlatIndex top-K| / K
+```
+
+**Example:**
+```
+FlatIndex top-5 (ground truth, exact): {A, B, C, D, E}
+Weaviate top-5  (approximate):         {A, B, C, D, F}  ← missed E, returned F
+
+recall@5 = 4/5 = 0.80
+```
+
+**How the benchmark uses it:**
+`benchmark_weaviate.py` runs 50 queries through FlatIndex (exact brute force)
+to get the ground truth top-10. It then runs the same queries through both
+HNSW (hand-built) and Weaviate, and measures what fraction of the true top-10
+each one finds.
+
+```python
+def compute_recall(true_results, approx_ids, k):
+    true_ids = {idx for _, idx in true_results[:k]}
+    return len(true_ids & set(approx_ids[:k])) / k
+```
+
+**Production target:** recall@10 ≥ 0.95 — meaning at least 9 of the true top-10
+appear in the results. Both the hand-built HNSW and Weaviate achieve this comfortably
+at 20K vectors.
+
+**Recall vs latency tradeoff:**
+- Higher recall → more candidates explored → slower query
+- In the hand-built HNSW: controlled by `ef_search` parameter
+- In Weaviate: controlled internally by its HNSW configuration (set at collection creation)
+
+> Full derivation and Phase 1 numbers: [../semantic_search/CONCEPTS.md](../semantic_search/CONCEPTS.md#6-recallk--measuring-ann-accuracy)
+
+---
+
+## 10. The full picture — what you can now say
 
 > "I implemented HNSW from scratch in Python, measured its recall and latency
 > against brute-force, then replaced it with Weaviate — a production vector
