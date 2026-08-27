@@ -1,0 +1,267 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="960" viewBox="0 0 1400 960">
+<defs>
+  <linearGradient id="p1g" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#1e1b4b"/>
+    <stop offset="100%" stop-color="#1a1d35"/>
+  </linearGradient>
+  <linearGradient id="p2g" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0c1a2e"/>
+    <stop offset="100%" stop-color="#0a1929"/>
+  </linearGradient>
+  <linearGradient id="p3g" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#052e16"/>
+    <stop offset="100%" stop-color="#061c14"/>
+  </linearGradient>
+</defs>
+
+<!-- Background -->
+<rect width="1400" height="960" fill="#080b12"/>
+
+<!-- HEADER -->
+<text x="700" y="46" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#475569" letter-spacing="3">AI / ML LEARNING JOURNEY</text>
+<text x="700" y="84" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="30" font-weight="700" fill="#f8fafc">Three Phases. One Connected System.</text>
+<text x="700" y="112" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="13" fill="#475569">From raw text to a working AI Q&amp;A app — every concept and how they connect</text>
+
+<!-- ═══════════════════════════════ PHASE 1 COLUMN ═══════════════════════════════ -->
+<rect x="40" y="140" width="397" height="640" rx="14" fill="url(#p1g)" stroke="#3730a3" stroke-width="1.5"/>
+
+<rect x="58" y="158" width="64" height="22" rx="11" fill="#312e81" stroke="#4338ca" stroke-width="0.8"/>
+<text x="90" y="173" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9.5" font-weight="700" fill="#a5b4fc" letter-spacing="1.5">PHASE 1</text>
+<text x="132" y="173" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="17" font-weight="700" fill="#a5b4fc">Embeddings</text>
+<text x="58" y="198" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="500" fill="#6366f1">How text becomes meaningful numbers</text>
+<line x1="58" y1="210" x2="419" y2="210" stroke="#312e81" stroke-width="1"/>
+
+<!-- P1 Card 1: Text Embeddings -->
+<rect x="56" y="220" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="56" y="228" width="3" height="52" rx="1" fill="#6366f1"/>
+<text x="72" y="240" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">Text Embeddings</text>
+<text x="72" y="256" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Text converted to a vector of 384 numbers.</text>
+<text x="72" y="270" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Similar sentences produce similar vectors.</text>
+
+<!-- P1 Card 2: Cosine Similarity -->
+<rect x="56" y="296" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="56" y="304" width="3" height="52" rx="1" fill="#6366f1"/>
+<text x="72" y="316" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">Cosine Similarity</text>
+<text x="72" y="332" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Angle between vectors measures meaning-distance.</text>
+<text x="72" y="346" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Score 1 = identical, 0 = unrelated.</text>
+
+<!-- P1 Card 3: L2 Normalisation -->
+<rect x="56" y="372" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="56" y="380" width="3" height="52" rx="1" fill="#6366f1"/>
+<text x="72" y="392" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">L2 Normalisation</text>
+<text x="72" y="408" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Scale vectors to unit length so dot product</text>
+<text x="72" y="422" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">equals cosine similarity.</text>
+
+<!-- P1 Card 4: all-MiniLM-L6-v2 -->
+<rect x="56" y="448" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="56" y="456" width="3" height="52" rx="1" fill="#6366f1"/>
+<text x="72" y="468" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">all-MiniLM-L6-v2</text>
+<text x="72" y="484" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Pre-trained embedding model. 384-dim output.</text>
+<text x="72" y="498" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Fast, strong semantic quality.</text>
+
+<!-- P1 Card 5: KMeans Clustering -->
+<rect x="56" y="524" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="56" y="532" width="3" height="52" rx="1" fill="#6366f1"/>
+<text x="72" y="544" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">KMeans Clustering</text>
+<text x="72" y="560" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Groups similar vectors without labels.</text>
+<text x="72" y="574" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Discovers natural clusters in embedding space.</text>
+
+<!-- P1 Card 6: PCA & t-SNE -->
+<rect x="56" y="600" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="56" y="608" width="3" height="52" rx="1" fill="#6366f1"/>
+<text x="72" y="620" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">PCA &amp; t-SNE</text>
+<text x="72" y="636" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Reduce 384-dim to 2D for visualisation.</text>
+<text x="72" y="650" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">PCA: global structure. t-SNE: local clusters.</text>
+
+<!-- ═══ ARROW 1 ═══ -->
+<text x="469" y="465" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9" font-weight="700" fill="#334155" letter-spacing="1">BUILDS ON</text>
+<line x1="447" y1="480" x2="490" y2="480" stroke="#334155" stroke-width="1.5"/>
+<polygon points="490,476 499,480 490,484" fill="#334155"/>
+
+<!-- ═══════════════════════════════ PHASE 2 COLUMN ═══════════════════════════════ -->
+<rect x="501" y="140" width="397" height="640" rx="14" fill="url(#p2g)" stroke="#0e7490" stroke-width="1.5"/>
+
+<rect x="519" y="158" width="64" height="22" rx="11" fill="#164e63" stroke="#0e7490" stroke-width="0.8"/>
+<text x="551" y="173" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9.5" font-weight="700" fill="#67e8f9" letter-spacing="1.5">PHASE 2</text>
+<text x="593" y="173" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="17" font-weight="700" fill="#67e8f9">Vector DB</text>
+<text x="519" y="198" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="500" fill="#0891b2">How to search millions of vectors fast</text>
+<line x1="519" y1="210" x2="880" y2="210" stroke="#0c1a2e" stroke-width="1"/>
+
+<!-- P2 Card 1: KNN -->
+<rect x="517" y="220" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="517" y="228" width="3" height="52" rx="1" fill="#06b6d4"/>
+<text x="533" y="240" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">KNN — Exact Search</text>
+<text x="533" y="256" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Scan all vectors, return K closest. 100%</text>
+<text x="533" y="270" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">accurate but O(N) slow — ~27ms/query.</text>
+
+<!-- P2 Card 2: ANN -->
+<rect x="517" y="296" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="517" y="304" width="3" height="52" rx="1" fill="#06b6d4"/>
+<text x="533" y="316" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">ANN — Approximate Search</text>
+<text x="533" y="332" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Skip most vectors using a smart index.</text>
+<text x="533" y="346" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">~26x faster than KNN with minimal accuracy loss.</text>
+
+<!-- P2 Card 3: HNSW -->
+<rect x="517" y="372" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="517" y="380" width="3" height="52" rx="1" fill="#06b6d4"/>
+<text x="533" y="392" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">HNSW</text>
+<text x="533" y="408" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Multi-layer graph. Top: sparse long jumps.</text>
+<text x="533" y="422" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Bottom: dense fine search. Like a highway map.</text>
+
+<!-- P2 Card 4: Recall@K -->
+<rect x="517" y="448" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="517" y="456" width="3" height="52" rx="1" fill="#06b6d4"/>
+<text x="533" y="468" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">Recall@K</text>
+<text x="533" y="484" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Fraction of true top-K found by ANN search.</text>
+<text x="533" y="498" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">0.996 = 9.96/10 correct. Price of 26x speed.</text>
+
+<!-- P2 Card 5: Weaviate -->
+<rect x="517" y="524" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="517" y="532" width="3" height="52" rx="1" fill="#06b6d4"/>
+<text x="533" y="544" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">Weaviate</text>
+<text x="533" y="560" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Production vector DB. HNSW built-in.</text>
+<text x="533" y="574" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Handles CRUD, hybrid, multilingual search.</text>
+
+<!-- P2 Card 6: Hybrid Search -->
+<rect x="517" y="600" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="517" y="608" width="3" height="52" rx="1" fill="#06b6d4"/>
+<text x="533" y="620" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">Hybrid Search</text>
+<text x="533" y="636" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Dense (semantic) + BM25 (keyword).</text>
+<text x="533" y="650" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Alpha 0 to 1 blends sparse to dense.</text>
+
+<!-- P2 Card 7: BM25 -->
+<rect x="517" y="676" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="517" y="684" width="3" height="52" rx="1" fill="#06b6d4"/>
+<text x="533" y="696" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">BM25 (Sparse Retrieval)</text>
+<text x="533" y="712" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Classic keyword ranking by term frequency.</text>
+<text x="533" y="726" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Paired with dense in hybrid search.</text>
+
+<!-- ═══ ARROW 2 ═══ -->
+<text x="930" y="465" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9" font-weight="700" fill="#334155" letter-spacing="1">POWERS</text>
+<line x1="908" y1="480" x2="951" y2="480" stroke="#334155" stroke-width="1.5"/>
+<polygon points="951,476 960,480 951,484" fill="#334155"/>
+
+<!-- ═══════════════════════════════ PHASE 3 COLUMN ═══════════════════════════════ -->
+<rect x="962" y="140" width="397" height="640" rx="14" fill="url(#p3g)" stroke="#15803d" stroke-width="1.5"/>
+
+<rect x="980" y="158" width="64" height="22" rx="11" fill="#14532d" stroke="#15803d" stroke-width="0.8"/>
+<text x="1012" y="173" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9.5" font-weight="700" fill="#6ee7b7" letter-spacing="1.5">PHASE 3</text>
+<text x="1054" y="173" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="17" font-weight="700" fill="#6ee7b7">RAG App</text>
+<text x="980" y="198" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="500" fill="#16a34a">How retrieval + generation = grounded answers</text>
+<line x1="980" y1="210" x2="1341" y2="210" stroke="#052e16" stroke-width="1"/>
+
+<!-- P3 Card 1: RAG -->
+<rect x="978" y="220" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="978" y="228" width="3" height="52" rx="1" fill="#10b981"/>
+<text x="994" y="240" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">RAG</text>
+<text x="994" y="256" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Retrieval + Generation pipeline.</text>
+<text x="994" y="270" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">LLM answers grounded in retrieved documents.</text>
+
+<!-- P3 Card 2: LLM -->
+<rect x="978" y="296" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="978" y="304" width="3" height="52" rx="1" fill="#10b981"/>
+<text x="994" y="316" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">LLM (Large Language Model)</text>
+<text x="994" y="332" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Reads retrieved context and generates</text>
+<text x="994" y="346" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">a natural-language answer.</text>
+
+<!-- P3 Card 3: Ollama -->
+<rect x="978" y="372" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="978" y="380" width="3" height="52" rx="1" fill="#10b981"/>
+<text x="994" y="392" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">Ollama + Llama 3.2</text>
+<text x="994" y="408" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Run LLMs locally. Free, no API key needed.</text>
+<text x="994" y="422" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Offline after setup. Docker for AI models.</text>
+
+<!-- P3 Card 4: Prompt Engineering -->
+<rect x="978" y="448" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="978" y="456" width="3" height="52" rx="1" fill="#10b981"/>
+<text x="994" y="468" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">Prompt Engineering</text>
+<text x="994" y="484" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Role + constraint + fallback. Three choices</text>
+<text x="994" y="498" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">that prevent hallucination.</text>
+
+<!-- P3 Card 5: Hallucination Prevention -->
+<rect x="978" y="524" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="978" y="532" width="3" height="52" rx="1" fill="#10b981"/>
+<text x="994" y="544" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">Hallucination Prevention</text>
+<text x="994" y="560" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Constrain LLM to retrieved text only.</text>
+<text x="994" y="574" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">If papers lack the answer, the LLM says so.</text>
+
+<!-- P3 Card 6: Streamlit -->
+<rect x="978" y="600" width="365" height="68" rx="8" fill="#0b0e1a" stroke="#1e293b" stroke-width="1"/>
+<rect x="978" y="608" width="3" height="52" rx="1" fill="#10b981"/>
+<text x="994" y="620" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e2e8f0">Streamlit UI</text>
+<text x="994" y="636" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Python to web app, no frontend code needed.</text>
+<text x="994" y="650" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Perfect for ML demos and data apps.</text>
+
+<!-- ═══════════════════════════════ PIPELINE BAR ═══════════════════════════════ -->
+<rect x="40" y="800" width="1320" height="112" rx="12" fill="#0d1120" stroke="#1e293b" stroke-width="1"/>
+<text x="700" y="820" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9.5" font-weight="700" fill="#334155" letter-spacing="2">END-TO-END PIPELINE — HOW ALL 3 PHASES CONNECT</text>
+
+<!-- Step 1: Raw Text -->
+<rect x="60" y="830" width="110" height="70" rx="8" fill="#080b12" stroke="#1e293b" stroke-width="1"/>
+<text x="115" y="855" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="20" fill="#e2e8f0">&#128196;</text>
+<text x="115" y="874" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#e2e8f0">Raw Text</text>
+<text x="115" y="889" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9.5" fill="#475569">25K ArXiv papers</text>
+
+<line x1="172" y1="865" x2="244" y2="865" stroke="#1e293b" stroke-width="1.5"/>
+<polygon points="244,861 253,865 244,869" fill="#1e293b"/>
+
+<!-- Step 2: Embed -->
+<rect x="255" y="830" width="110" height="70" rx="8" fill="#080b12" stroke="#312e81" stroke-width="1"/>
+<text x="310" y="855" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="20" fill="#a5b4fc">&#128288;</text>
+<text x="310" y="874" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#a5b4fc">Embed</text>
+<text x="310" y="889" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9.5" fill="#475569">MiniLM → 384-dim</text>
+
+<line x1="367" y1="865" x2="439" y2="865" stroke="#1e293b" stroke-width="1.5"/>
+<polygon points="439,861 448,865 439,869" fill="#1e293b"/>
+
+<!-- Step 3: Index -->
+<rect x="450" y="830" width="110" height="70" rx="8" fill="#080b12" stroke="#0e7490" stroke-width="1"/>
+<text x="505" y="855" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="20" fill="#67e8f9">&#128375;</text>
+<text x="505" y="874" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#67e8f9">Index</text>
+<text x="505" y="889" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9.5" fill="#475569">Weaviate HNSW</text>
+
+<line x1="562" y1="865" x2="634" y2="865" stroke="#1e293b" stroke-width="1.5"/>
+<polygon points="634,861 643,865 634,869" fill="#1e293b"/>
+
+<!-- Step 4: Retrieve -->
+<rect x="645" y="830" width="110" height="70" rx="8" fill="#080b12" stroke="#0e7490" stroke-width="1"/>
+<text x="700" y="855" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="20" fill="#67e8f9">&#128269;</text>
+<text x="700" y="874" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#67e8f9">Retrieve</text>
+<text x="700" y="889" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9.5" fill="#475569">ANN → top-K papers</text>
+
+<line x1="757" y1="865" x2="829" y2="865" stroke="#1e293b" stroke-width="1.5"/>
+<polygon points="829,861 838,865 829,869" fill="#1e293b"/>
+
+<!-- Step 5: Prompt -->
+<rect x="840" y="830" width="110" height="70" rx="8" fill="#080b12" stroke="#15803d" stroke-width="1"/>
+<text x="895" y="855" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="20" fill="#6ee7b7">&#9999;&#65039;</text>
+<text x="895" y="874" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#6ee7b7">Prompt</text>
+<text x="895" y="889" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9.5" fill="#475569">Query + abstracts</text>
+
+<line x1="952" y1="865" x2="1024" y2="865" stroke="#1e293b" stroke-width="1.5"/>
+<polygon points="1024,861 1033,865 1024,869" fill="#1e293b"/>
+
+<!-- Step 6: Generate -->
+<rect x="1035" y="830" width="110" height="70" rx="8" fill="#080b12" stroke="#15803d" stroke-width="1"/>
+<text x="1090" y="860" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#6ee7b7">Llama</text>
+<text x="1090" y="874" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#6ee7b7">Generate</text>
+<text x="1090" y="889" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9.5" fill="#475569">Llama 3.2 → answer</text>
+
+<line x1="1147" y1="865" x2="1219" y2="865" stroke="#1e293b" stroke-width="1.5"/>
+<polygon points="1219,861 1228,865 1219,869" fill="#1e293b"/>
+
+<!-- Step 7: Display -->
+<rect x="1230" y="830" width="110" height="70" rx="8" fill="#080b12" stroke="#15803d" stroke-width="1"/>
+<text x="1285" y="855" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="20" fill="#6ee7b7">&#127760;</text>
+<text x="1285" y="874" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#6ee7b7">Display</text>
+<text x="1285" y="889" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="9.5" fill="#475569">Streamlit UI</text>
+
+<!-- ═══ LEGEND ═══ -->
+<circle cx="430" cy="932" r="5" fill="#6366f1"/>
+<text x="441" y="936" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Phase 1 — Embedding concepts</text>
+<circle cx="640" cy="932" r="5" fill="#06b6d4"/>
+<text x="651" y="936" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Phase 2 — Vector DB concepts</text>
+<circle cx="850" cy="932" r="5" fill="#10b981"/>
+<text x="861" y="936" font-family="system-ui,-apple-system,'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Phase 3 — RAG concepts</text>
+
+</svg>

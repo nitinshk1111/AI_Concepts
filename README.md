@@ -3,6 +3,8 @@
 Hands-on learning projects built while studying AI/ML engineering.
 Each folder is a self-contained project with its own README, concepts file, and runnable code.
 
+![AI Learning Journey — Three Phases, One Connected System](docs/concept-map.svg)
+
 ---
 
 ## Projects
