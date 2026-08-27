@@ -211,6 +211,22 @@ compiled code and optimized memory access.
 
 ## 9. Recall@K — how accuracy is measured in ANN search
 
+### What is recall?
+
+Recall answers one question: **out of all the correct answers, how many did you find?**
+
+Imagine you're looking for the 10 most relevant papers for a query. A brute-force
+search checks every paper and gives you the guaranteed correct top-10. An approximate
+search (HNSW, Weaviate) takes shortcuts to be fast — but might miss 1 or 2 of the
+true top-10. Recall@10 measures what fraction of the true top-10 it actually returned.
+
+- recall@10 = 1.0 → found all 10 correct papers (perfect)
+- recall@10 = 0.9 → found 9 out of 10 (missed 1)
+- recall@10 = 0.8 → found 8 out of 10 (missed 2)
+
+The closer to 1.0 the better — but higher recall means exploring more candidates,
+which costs more query time. This is the core recall vs latency tradeoff.
+
 Weaviate (like the hand-built HNSW) is an **approximate** nearest neighbour search.
 It trades a small amount of accuracy for a large gain in speed. Recall@K is the
 metric that quantifies exactly how much accuracy was traded away.

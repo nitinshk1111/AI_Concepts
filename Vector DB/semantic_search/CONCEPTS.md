@@ -211,6 +211,21 @@ Code: [`hnsw/hnsw_index.py`](hnsw/hnsw_index.py)
 
 ## 6. Recall@K — measuring ANN accuracy
 
+### What is recall?
+
+Recall answers one question: **out of all the correct answers, how many did you find?**
+
+Think of it like a search-and-rescue team looking for 10 missing people. If they
+find 8 of the 10, their recall is 8/10 = 0.80. They didn't find everyone, but
+they found most of the right ones.
+
+In vector search, the "correct answers" are the true nearest neighbours as determined
+by brute force (FlatIndex). Since HNSW is approximate — it takes shortcuts to be fast —
+it might miss some true nearest neighbours. Recall@K measures how often it gets it right.
+
+A recall of 1.0 = perfect (found all true neighbours). A recall of 0.9 = missed 10%.
+The closer to 1.0, the better — but higher recall costs more query time.
+
 ```
 recall@K = |ANN top-K ∩ FlatIndex top-K| / K
 ```
