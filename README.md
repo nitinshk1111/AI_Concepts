@@ -52,11 +52,38 @@ HNSW (hand-built):   1ms/query  →  26.5× faster, recall@10 = 0.996
 
 ---
 
+### [RAG/](RAG/)
+**Retrieval Augmented Generation — a full question-answering app**
+
+Combines Weaviate (vector search) with Ollama (local LLM) to answer questions
+grounded in 25,000 real AI/ML research papers. Built with a Streamlit UI —
+runs entirely on your Mac, no API keys, no cloud cost.
+
+| What | Where |
+|------|-------|
+| Core concepts | [RAG/README.md](RAG/README.md) |
+| RAG theory (LLMs, prompting, grounding) | [RAG/CONCEPTS.md](RAG/CONCEPTS.md) |
+| Setup guide (Ollama, Llama 3.2) | [RAG/SETUP.md](RAG/SETUP.md) |
+| Data pipeline | [download_data.py](RAG/download_data.py), [build_embeddings.py](RAG/build_embeddings.py) |
+| Retrieval | [retriever.py](RAG/retriever.py) — Weaviate HNSW + ANN search |
+| Generation | [generator.py](RAG/generator.py) — Ollama API + prompt engineering |
+| App | [app.py](RAG/app.py) — Streamlit dark-themed UI |
+
+**Key concepts:** RAG, LLMs, prompt engineering, hallucination prevention,
+Ollama, Llama 3.2, Streamlit, grounding, context injection.
+
+**Dataset:** 25K ArXiv AI/ML papers (2018–2021) — covers BERT, GPT-2, GPT-3,
+transformers, diffusion models, vision transformers, and more.
+
+---
+
 ## Stack
 
 - **Language:** Python 3.14
 - **Embeddings:** `sentence-transformers` (`all-MiniLM-L6-v2`, `paraphrase-multilingual-MiniLM-L12-v2`)
 - **Vector DB:** Weaviate (embedded mode)
+- **LLM:** Llama 3.2 via Ollama (local, free)
+- **UI:** Streamlit
 - **Numerics:** NumPy, pandas
 - **Visualization:** Plotly
 
